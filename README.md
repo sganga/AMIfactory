@@ -1,0 +1,4 @@
+AMIfactory
+==========
+
+AWS AMI generation 
